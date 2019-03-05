@@ -1,0 +1,17 @@
+Folder PATH listing
+Volume serial number is 9A30-46D8
+D:\PROJECTS\2019\MARCH\REACT-REDUX-WEBPACK-PRACTICE\SRC
+³   index.html
+³   index.jsx
+³   store.js
+³   style.scss
+³   
+ÃÄÄÄactions
+³       cart-actions.js
+³       product-actions.js
+³       
+ÀÄÄÄreducer
+        cart-reducer.js
+        index.js
+        product-reducer.js
+        
