@@ -1,5 +1,5 @@
 # React-Redux-Webpack-Practices
----
+
 It's first time to upload files to Github with Git.
 
 ## 项目特点
