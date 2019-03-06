@@ -7,7 +7,18 @@ It's first time to upload files to Github with Git.
 * 基本Webpack配置
 
 ## 更新（2019年3月6日)
-单页面应用(Single Page Application, SPA)与多页面应用(Multiple Page Application, MPA)
+
+#### 单页面应用（SinglePage Web Application，SPA）<br>
+只有一张Web页面的应用，是一种从Web服务器加载的富客户端，单页面跳转仅刷新局部资源 ，公共资源(js、css等)仅需加载一次，常用于PC端官网、购物等网站<br>
+如图:<br>
+![单页面应用结构视图](https://github.com/Jalever/react-redux-wepback-practice/blob/master/src/images/SPA.png "SPA")<br>
+
+#### 多页面应用（MultiPage Application，MPA）<br>
+多页面跳转刷新所有资源，每个公共资源(js、css等)需选择性重新加载，常用于 app 或 客户端等
+如图：<br>
+![多页面应用结构视图](https://github.com/Jalever/react-redux-wepback-practice/blob/master/src/images/MPA.png "MPA")<br>
+
+###### 单页面应用(Single Page Application, SPA)与多页面应用(Multiple Page Application, MPA)
 <table style="border:1px solid #ccc;border-collapse:collapse;text-align:center;">
     <thead>
         <tr style="border:1px solid #000">
