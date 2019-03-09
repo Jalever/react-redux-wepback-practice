@@ -6,7 +6,7 @@ import { VISIBILITY_FILTERS } from "./../constants/constants.js";
 
 const VisibilityFilters = ({ activeFilter, setFilter }) => {
 	return (
-		<div>
+		<div className="filter-div">
 			{Object.keys(VISIBILITY_FILTERS).map(filterKey => {
 				const currentFilter = VISIBILITY_FILTERS[filterKey];
 

@@ -9,10 +9,10 @@ import "./styles/style.scss";
 export default function TodoApp() {
 	return(
 		<div>
-			<h1>Add Todo List: </h1>
+			<h1 className="todo-title">Add Todo List: </h1>
 			<AddTodo />
-			<TodoList />
 			<VisibilityFilters />
+			<TodoList />
 		</div>
 	);
 }
