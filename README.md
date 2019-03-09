@@ -6,6 +6,9 @@ It's first time to upload files to Github with Git.
 * 第一次Redux简单实例
 * 基本Webpack配置
 
+## 更新（2019年3月9日)
+* 添加新的CSS样式
+
 ## 更新（2019年3月8日)
 * Redux实例更改为Todo List
 
